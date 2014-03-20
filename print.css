@@ -106,7 +106,7 @@
  .table-bordered th,.table-bordered td {
  border: 1px solid #ddd !important;
  }
- #header, #secondary,.header-img, #site-meta, #jp-relatedposts, #author-bio-box, .edit-link, .tags, #posts-pagination, #respond, #footer, #breadcrumbs, .entry-meta {
+ #header, #secondary,.header-img, #site-meta, #jp-relatedposts, #author-bio-box, .edit-link, .tags, #posts-pagination, #respond, #footer, #breadcrumbs, .entry-meta, .wp-socializer-buttons, .wpsr-floatbar-float_left {
  display:none!important
  } 
 }
